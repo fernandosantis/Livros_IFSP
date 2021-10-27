@@ -2,9 +2,9 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 <item
-    android:id="@+id/mi_AdicionarLivro"
-    android:title="Adicionar Livro"
-    android:contentDescription="Adicionar Novo Livro"
-    android:icon="@drawable/ic_adicionar_livro"
-    app:showAsAction="ifRoom"/>
+    android:id="@+id/miSair"
+    android:title="Sair"
+    android:contentDescription="Sair"
+    android:icon="@drawable/ic_sair"
+    app:showAsAction="always"/>
 </menu>
